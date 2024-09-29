@@ -1,2 +1,2 @@
 # To Do Application
- This App For your Daily Palnning with Reminder
+ This App For your Daily Planning with Reminder
